@@ -34,7 +34,7 @@
   justify-content: center;
 }
 
-.mobile_logo span {
+.res_logo span {
   width: 14px;
   display: none;
   height: 2px;
@@ -114,7 +114,7 @@
   .res_logo {
     display: block;
   }
-  .mobile_logo span {
+  .res_logo span {
     display: block;
   }
   .header_frame {
